@@ -1,3 +1,4 @@
+#Text-Classification
 Text treatment and machine learning in Python :
 
 The aim is to classify sementicaly a set of texts in k groups.
